@@ -1,0 +1,9 @@
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#02 I: Start test all_tests:1:normalize_piece.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#02 I: Test all_tests:1:normalize_piece is successful.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#02 I: End test all_tests:1:normalize_piece.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#02 I: Start test all_tests:3:rotate_piece.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#02 I: Test all_tests:3:rotate_piece is successful.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#02 I: End test all_tests:3:rotate_piece.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#02 I: Start test all_tests:5:make_piece_array.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#02 I: Test all_tests:5:make_piece_array is successful.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#02 I: End test all_tests:5:make_piece_array.

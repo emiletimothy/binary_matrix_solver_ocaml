@@ -1,0 +1,18 @@
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#01 I: Start test all_tests:0:translate_piece.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#01 I: Test all_tests:0:translate_piece is successful.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#01 I: End test all_tests:0:translate_piece.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#01 I: Start test all_tests:2:reflect_piece.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#01 I: Test all_tests:2:reflect_piece is successful.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#01 I: End test all_tests:2:reflect_piece.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#01 I: Start test all_tests:4:translate_piece_on_board.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#01 I: Test all_tests:4:translate_piece_on_board is successful.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#01 I: End test all_tests:4:translate_piece_on_board.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#01 I: Start test all_tests:6:make_constraints_array.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#01 I: Test all_tests:6:make_constraints_array is successful.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#01 I: End test all_tests:6:make_constraints_array.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#01 I: Start test all_tests:7:make_constraints_map.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#01 I: Test all_tests:7:make_constraints_map is successful.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#01 I: End test all_tests:7:make_constraints_map.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#01 I: Start test all_tests:8:make_binary_matrix_base_locs.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#01 I: Test all_tests:8:make_binary_matrix_base_locs is successful.
+2021-03-18T10:28:47+00:00 Emiles-MacBook-Pro.local#01 I: End test all_tests:8:make_binary_matrix_base_locs.
