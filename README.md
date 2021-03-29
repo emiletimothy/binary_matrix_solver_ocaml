@@ -1,4 +1,4 @@
-# Caltech-CS-4
+# Kanoodle Ocaml
 
 Honor code: “No member of the Caltech community shall take unfair advantage of any other member of the Caltech community." Therefore, if you are taking or plan on taking CS4, do not look over these files.
 
